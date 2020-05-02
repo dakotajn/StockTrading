@@ -1,0 +1,10 @@
+Alpha Vantage:
+
+API Key: I5R7SASD9D1YXR3X
+
+Docs: https://www.alphavantage.co/documentation/
+
+FREE: Good for 5 calls a minute (500 a day).
+$30/m: 30 requests per minute. no daily limit
+$50/m: 120 requests per minute. no daily limit
+$100/m: 300 requests per minute. on daily limit
